@@ -4,10 +4,6 @@
 
 I'm a tech enthusiast based in Bengaluru, Karnataka, India, with a passion for AWS DevOps, Linux, automation tools like Jenkins, Maven, Docker, Kubernetes, Ansible, Terraform, and programming languages such as Python and SQL. I also have a strong background in data visualization with Power BI.
 
-## 🌱 Currently Learning
-
-I'm currently diving deep into GoLang through my "100 Days of GoLang" journey. Follow along as I explore and document my progress in this powerful programming language!
-
 ## 👀 What I'm Interested In
 
 I'm particularly interested in cloud technologies, DevOps practices, and leveraging automation tools to streamline development and deployment processes.
